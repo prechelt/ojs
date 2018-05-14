@@ -9,6 +9,10 @@ automatically during the upgrade process. If these are intentionally
 disabled, please disable them again following the upgrade process. (This is a
 resolution for pkp/pkp-lib#4561.)
 
+Notes
+-----
+
+
 New Features
 ------------
 	#1922: Add support for catalog paging
