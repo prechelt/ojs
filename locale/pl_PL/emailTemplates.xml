@@ -170,9 +170,9 @@ Z wyrazami szacunku, <br />
 	</email_text>
 	<email_text key="SUBMISSION_DECISION_REVIEWERS">
 		<subject>Decyzja w sprawie "{$articleTitle}"</subject>
-		<body>Informuję, że proces recenzowania artykułu "{$articleTitle}", zgłoszonego do czasopisma {$journalName}, zakończył się. Przesyłam Panu/Pani recenzje oraz decyzję redakcji w sprawie nadesłanego tekstu. 
+		<body>Informuję, że proces recenzowania artykułu "{$articleTitle}", zgłoszonego do czasopisma {$journalName}, zakończył się. Przesyłam Panu/Pani recenzje oraz decyzję redakcji w sprawie nadesłanego tekstu.
 
-Dziękuję za wykonaną przez Panią/Pana pracę. 
+Dziękuję za wykonaną przez Panią/Pana pracę.
 
 Z wyrazami szacunku,
 {$editorialContactSignature}
@@ -453,7 +453,7 @@ Z wyrazami szacunku,<br />
 proszę o wykonanie korekty tekstu "{$submissionTitle}", zgłoszonego do czasopisma {$contextName}.<br />
 <br />
 Proszę o postępowanie zgodnie z poniższymi krokami:<br />
-1. Kliknij na link do zgłoszonego tekstu znajdujący się poniżej.<br /> 
+1. Kliknij na link do zgłoszonego tekstu znajdujący się poniżej.<br />
 2. Pobierz pliki robocze i wykonaj korektę. Ustal zmiany z autorem używając narzędzi do dyskusji.<br />
 3. Zapisz poprawiony plik(i) i prześlij go do systemu.<br />
 4. Powiadom redaktora o ukończeniu korekty i przekazaniu tekstu do realizacji.<br />
@@ -475,17 +475,17 @@ Szanowna Pani / Szanowny Panie,
 Zakończyliśmy redakcję techniczną tekstu "{$articleTitle}" zgłoszonego do czasopisma {$journalName}. Aby zapoznać się z propozycjami zmian i pytaniami do autora, proszę postępować następująco:
 
 1. Zaloguj się na stronie czasopisma, używają poniższego linku i wprowadź nazwę użytkownika oraz hasło.
-2. Kliknij na plik przy "kroku 1". Zainicjuj redakcję techniczną, pobierz plik i otwórz zredagowaną wersję. 
+2. Kliknij na plik przy "kroku 1". Zainicjuj redakcję techniczną, pobierz plik i otwórz zredagowaną wersję.
 3. Przejrzyj redakcję, potwierdź zmiany i odpowiedz na pytania.
 4. Zachowaj plik na dysku komputera, a następnie prześlij go do systemu w "kroku 2".
-5. Kliknij na ikonkę e-mail przy "Gotowy", a następnie prześlij e-mail do redaktora. 
+5. Kliknij na ikonkę e-mail przy "Gotowy", a następnie prześlij e-mail do redaktora.
 
 To ostatnia okazja aby wprowadzić znaczące zmiany do tekstu. W dalszych krokach zmianie podlegać będą tylko układ typograficzny i błędy stylistyczne.
 
 WWW tekstu: {$submissionEditingUrl}
 Nazwa użytkownika: {$authorUsername}
 
-Jeśli nie może Pani/Pan wykonać pracy w terminie lub ma dodatkowe pytania prosimy o kontakt. 
+Jeśli nie może Pani/Pan wykonać pracy w terminie lub ma dodatkowe pytania prosimy o kontakt.
 
 Dziękujemy za współpracę z czasopismem.
 
@@ -525,9 +525,9 @@ Zgłoszony do czasopisma {$journalName} tekst "{$articleTitle}" przeszedł pierw
 Adres WWW tekstu: {$submissionCopyeditingUrl}
 Nazwa użytkownika: {$authorUsername}
 
-Informujemy, że jest to ostatnia szansa na wprowadzenie zmian do tekstu. 
+Informujemy, że jest to ostatnia szansa na wprowadzenie zmian do tekstu.
 
-Jeśli nie może Pan/Pani wykonać opisanego wyżej zadania w terminie lub ma dodatkowe pytania, proszę o kontakt. 
+Jeśli nie może Pan/Pani wykonać opisanego wyżej zadania w terminie lub ma dodatkowe pytania, proszę o kontakt.
 
 Z wyrazami szacunku,
 {$editorialContactSignature}</body>
@@ -591,7 +591,7 @@ Z wyrazami szacunku,
 
 Szanowna Pani / Szanowny Panie,
 
-Ukończyłem/am końcowy etap redakcji technicznej. Przygotowałem/am pozbawioną uwag i komentarzy wersję tekstu "{$articleTitle}" do opublikowania w {$journalName}. 
+Ukończyłem/am końcowy etap redakcji technicznej. Przygotowałem/am pozbawioną uwag i komentarzy wersję tekstu "{$articleTitle}" do opublikowania w {$journalName}.
 
 Tekst jest gotowy do składu.
 
@@ -605,7 +605,7 @@ Z wyrazami szacunku,
 
 Szanowna Pani / Szanowny Panie,
 
-Dziękuję za ukończenie prac redakcyjnych nad tekstem "{$articleTitle}" zgłoszonym do czasopisma {$journalName}. 
+Dziękuję za ukończenie prac redakcyjnych nad tekstem "{$articleTitle}" zgłoszonym do czasopisma {$journalName}.
 
 Przygotowanie "czystej" kopii tekstu do składu jest bardzo ważnym elementem procesu redakcyjnego.
 
@@ -652,7 +652,7 @@ Z wyrazami szacunku,<br />
 
 Szanowna Pani / Szanowny Panie,
 
-Dziękuję za wykonanie składu tekstu "{$articleTitle}" dla czasopisma {$journalName}. 
+Dziękuję za wykonanie składu tekstu "{$articleTitle}" dla czasopisma {$journalName}.
 
 Pani/Pana praca ma istotny wpływ na jakość czasopisma.
 
@@ -691,7 +691,7 @@ Z wyrazami szacunku,
 
 Szanowna Pani / Szanowny Panie,
 
-Informuję, że sprawdziłem/am mój tekst "{$articleTitle}", przygotowany do opublikowania w czasopiśmie {$journalName}. 
+Informuję, że sprawdziłem/am mój tekst "{$articleTitle}", przygotowany do opublikowania w czasopiśmie {$journalName}.
 
 Z wyrazami szacunku,
 {$authorName}</body>
@@ -705,7 +705,7 @@ Szanowna Pani / Szanowny Panie,
 
 Dziękuję za sprawdzenie wersji końcowej tekstu "{$articleTitle}" do opublikowania w {$journalName}. Zostanie on wkrótce opublikowany.
 
-Jeśli subskrybuje Pan/Pani naszą stronę, na skrzynkę e-mail zostanie dostarczona wiadomość o opublikowaniu nowego numeru. 
+Jeśli subskrybuje Pan/Pani naszą stronę, na skrzynkę e-mail zostanie dostarczona wiadomość o opublikowaniu nowego numeru.
 
 W razie dodatkowych pytań proszę o kontakt.
 
@@ -749,7 +749,7 @@ Z wyrazami szacunku,
 
 Szanowna Pani / Szanowny Panie,
 
-Informuję, że wykonałem/am korektę końcową tekstu "{$articleTitle}", przygotowanego do opublikowania w czasopiśmie {$journalName}. 
+Informuję, że wykonałem/am korektę końcową tekstu "{$articleTitle}", przygotowanego do opublikowania w czasopiśmie {$journalName}.
 
 Z wyrazami szacunku,
 {$proofreaderName}</body>
@@ -761,7 +761,7 @@ Z wyrazami szacunku,
 
 Szanowna Pani / Szanowny Panie,
 
-Dziękuję za wykonanie korekty tekstu "{$articleTitle}" przed opublikowaniem go w czasopiśmie {$journalName}. 
+Dziękuję za wykonanie korekty tekstu "{$articleTitle}" przed opublikowaniem go w czasopiśmie {$journalName}.
 
 Pani/Pana praca ma istotny wpływ na jakość naszego czasopisma.
 
@@ -786,7 +786,7 @@ Adres WWW czasopisma {$journalName}: {$journalUrl}
 Adres WWW tekstu: {$submissionUrl}
 Nazwa użytkownika: {$layoutEditorUsername}
 
-Jeśli nie może Pani/Pan wykonać opisanego wyżej zadania w terminie lub ma dodatkowe pytania, proszę o kontakt. 
+Jeśli nie może Pani/Pan wykonać opisanego wyżej zadania w terminie lub ma dodatkowe pytania, proszę o kontakt.
 
 Dziękuję za Pani/Pana wkład w budowanie czasopisma.
 
@@ -800,7 +800,7 @@ Z wyrazami szacunku,
 
 Szanowna Pani / Szanowny Panie,
 
-Informuję, że wykonałem/am korektę końcową tekstu "{$articleTitle}", przygotowanego do opublikowania w czasopiśmie {$journalName}. 
+Informuję, że wykonałem/am korektę końcową tekstu "{$articleTitle}", przygotowanego do opublikowania w czasopiśmie {$journalName}.
 
 Z wyrazami szacunku,
 {$layoutEditorName}</body>
@@ -813,7 +813,7 @@ Z wyrazami szacunku,
 
 Szanowna Pani / Szanowny Panie,
 
-Dziękuję za wykonanie korekty tekstu "{$articleTitle}" przed opublikowaniem go w czasopiśmie {$journalName}. 
+Dziękuję za wykonanie korekty tekstu "{$articleTitle}" przed opublikowaniem go w czasopiśmie {$journalName}.
 
 Pani/Pana praca ma istotny wpływ na jakość naszego czasopisma.
 
