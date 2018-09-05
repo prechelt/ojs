@@ -62,13 +62,13 @@
 	<message key="common.journalHomepageImage.altText">Baner</message>
 
 	<!-- Common Form Messages -->
-	
+
 	<!-- Common Email Messages -->
 
 	<!-- Common Localization Terms -->
 
 	<!-- Common Error Messages -->
-		
+
 	<!-- Navigation -->
 	<message key="navigation.journalHelp">Pomoc</message>
 	<message key="navigation.archives">Archiwum</message>
@@ -81,7 +81,7 @@
 	<message key="navigation.competingInterestGuidelines">Wytyczne w zakresie konfliktu interesów</message>
 	<message key="navigation.infoForAuthors.long">Informacje dla autorów</message>
 	<message key="navigation.infoForLibrarians.long">Informacje dla bibliotekarzy</message>
-	
+
 	<!-- Article Queues -->
 	<message key="common.queue.long.submissionsUnassigned">Nieprzypisane</message>
 	<message key="common.queue.short.submissionsUnassigned">Nieprzypisane</message>
@@ -95,7 +95,7 @@
 	<message key="common.queue.short.active">Aktywne</message>
 	<message key="common.queue.long.completed">Archiwum</message>
 	<message key="common.queue.short.completed">Archiwum</message>
-	
+
 	<!--
 	 *
 	 * ENTITIES - This section contains terms pertaining to the system's
@@ -194,7 +194,7 @@
 	<message key="submissions.proofreadingComplete">Zaakceptowane do opublikowania</message>
 
 	<!-- Submission Notes -->
-	
+
 	<!-- Common Journal Terms -->
 	<message key="journal.currentIssue">Aktualny numer</message>
 	<message key="journal.journals">Czasopisma</message>
@@ -231,7 +231,7 @@
 	<message key="user.role.proofreaders">Korektorzy pliku do publikacji</message>
 	<message key="user.role.authors">Autorzy</message>
 	<message key="user.role.subscriptionManagers">Administratorzy subskrypcji</message>
-	
+
 	<!-- Common Issue Terms -->
 	<message key="issue.issue">Numer</message>
 	<message key="issue.issues">Numery</message>
@@ -315,7 +315,7 @@
 
 	<!-- Reader article view -->
 	<message key="reader.subscribersOnly">Tylko dla subskrybentów</message>
-	<message key="reader.subscriptionRequiredLoginText">Wymagana subskrypcja. Aby zweryfikować subskrypcję, zaloguj do czasopisma.</message>  
+	<message key="reader.subscriptionRequiredLoginText">Wymagana subskrypcja. Aby zweryfikować subskrypcję, zaloguj do czasopisma.</message>
 	<message key="reader.openAccess">Otwarty dostęp</message>
 	<message key="reader.subscriptionAccess">Dostęp przez subskrypcję</message>
 	<message key="reader.subscriptionOrFeeAccess">Dostęp poprzez subskrypcję lub za opłatą</message>
@@ -326,19 +326,19 @@
 
 	<!-- Site Administration -->
 
-	
-	
+
+
 	<!-- Languages -->
 
 	<message key="admin.auth.defaultSourceDescription"><![CDATA[<p>Podaj inne źródło uwierzytelniania niż OJS, uzyskując następujący wynik:</p>
 <ul>
 	<li>Jeżeli użytkownik usiłuje utworzyć nowe konto w systemie używając nazwy użytkownika, która już istnieje w źródle uwierzytelniania (poza bazą OJS), rejestracja jest dozwolona tylko w przypadku podania poprawnego hasła dla nazwy użytkownika.</li>
 </ul>]]></message>
-	
+
 	<!-- System Information -->
 	<message key="admin.overwriteConfigFileInstructions"><![CDATA[<h4>UWAGA!</div>
 <p>System nie był w stanie automatycznie nadpisać pliku konfiguracji. Aby zastosować zmiany w konfiguracji musisz otworzyć plik <tt>config.in.php</tt> w edytorze tekstu i zmienić jego zawartość z treścią zamieszczoną w poniższym polu.</p>]]></message>
-	
+
 
 	<!-- Site Administrator Merge Users -->	
 
@@ -347,7 +347,7 @@
 	<message key="subscriptionManager.individualSubscriptions">Indywidualne subskrypcje</message>
 	<message key="subscriptionManager.institutionalSubscriptions">Instytucjonalne subskrypcje</message>
 	<message key="subscriptionManager.subscriptionTypes">Typy subskrypcji</message>
-	
+
 	<!-- Journal Management -->
 
 	<!-- Statistics & Reports -->
@@ -365,7 +365,7 @@
 	<message key="plugins.categories.oaiMetadataFormats.description">These format plugins express metadata in OAI communications.</message>
 
 
- 
+
 
 	<!-- Files Browser -->
 
@@ -410,7 +410,7 @@ Autorzy publikujący w czasopiśmie zgadzają się na następujące zasady:
 	<!-- Setup Step 5 -->
 
 	<!-- Languages -->
-	
+
 	<!-- Section Management -->
 
 	<!-- Import/Export -->
@@ -425,7 +425,7 @@ Autorzy publikujący w czasopiśmie zgadzają się na następujące zasady:
 	]]></message>
 
 
-	
+
 	<!-- Email Management -->
 
 	<!-- Subscription Policy Management -->
@@ -465,7 +465,7 @@ Ocena jest w skali 5-stopniowej (gdzie 5 oznacza "doskonały").<br/>
 
 
 
-	
+
 	<!-- Section Editor -->
 	<message key="sectionEditor.activeEditorialAssignments">Aktywne prace redakcyjne</message>
 	<message key="sectionEditor.completedEditorialAssignments">Ukończone prace redakcyjne</message>
@@ -500,7 +500,7 @@ Ocena jest w skali 5-stopniowej (gdzie 5 oznacza "doskonały").<br/>
 	<message key="reviewer.pendingReviews">Artykuły w recenzji</message>
 	<message key="reviewer.completedReviews">Ukończone</message>
 	<message key="reviewer.averageQuality">Ocena</message>
-	
+
 	<!-- Used in submission review -->
 	<message key="reviewer.article.fileToBeReviewed">Plik do zrecenzowania</message>
 	<message key="reviewer.article.notifyTheEditor">Powiadom redaktora</message>
@@ -747,7 +747,7 @@ Ocena jest w skali 5-stopniowej (gdzie 5 oznacza "doskonały").<br/>
 
 	<!-- Help -->
 	<message key="help.ojsHelp">Pomoc Open Journal Systems</message>
-	<message key="help.ojsHelpAbbrev">Pomoc OJS</message>	
+	<message key="help.ojsHelpAbbrev">Pomoc OJS</message>
 	<message key="help.searchReturnResults">Wróc do wyników wyszukiwania</message>
 
 	<!-- Donations -->
