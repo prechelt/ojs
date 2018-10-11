@@ -47,7 +47,8 @@
     "vue-style-loader": "^3.0.3",
     "vue-template-compiler": "^2.5.13",
     "vuedraggable": "^2.14.1",
-    "webpack": "^3.10.0"
+    "webpack": "^3.10.0",
+    "webpack-cli": "^3.1.2"
   },
   "engines": {
     "node": ">= 4.0.0",

@@ -12,4 +12,5 @@ node_modules
 js/build.js
 styles/build.css
 .idea/
-composer.phar
+php_errors.log
+z/
